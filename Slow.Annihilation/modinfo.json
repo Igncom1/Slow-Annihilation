@@ -1,0 +1,16 @@
+{
+  "enabled" : true,
+  "context" : "server",
+  "identifier" : "Slow.Annihilation",
+  "display_name" : "Slow Annihilation",
+  "description" : "Creates a slower but more immersive experience, with a little bit of help from SupComs balance style.",
+  "author" : "Igncom1",
+  "version" : "1",
+  "build" : "80187",
+  "date": "2015/04/18",
+  "category": [
+      "units",
+      "server-mod"
+  ],
+  "signature" : "(not yet implemented)"
+}
